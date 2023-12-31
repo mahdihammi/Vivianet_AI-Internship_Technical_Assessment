@@ -45,6 +45,13 @@ Displays aggregated stress level.
 
 https://github.com/mahdihammi/Vivianet_AI-Internship_Technical_Assessment/assets/89527502/7048eb4e-43df-41c2-b912-8993cdb9bce9
 
+******************************************************************************************************************************
+![scrennshot_of_processed_video](https://github.com/mahdihammi/Vivianet_AI-Internship_Technical_Assessment/assets/89527502/c8c3f4d4-cabb-42d1-831a-8aa2b13f1f8f)
+
+![scrennshot_of_processed_video_](https://github.com/mahdihammi/Vivianet_AI-Internship_Technical_Assessment/assets/89527502/08161f70-2cc5-4889-a53e-c3c4f5080b49)
+
+
+
 
 ##### Output
 - Real-time visualization of stress features.
